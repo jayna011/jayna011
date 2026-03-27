@@ -12,14 +12,14 @@ Hello I'm Guljayna👋
 - 🎓 I am a student
 - 📚 I am currently learning **HTML5** and **CSS3**
 - ⚡ I love solving logic puzzles
-- 🌍 Based in **Uzbekistan**
+- 🌍 Based in **Uzbekistan** **Karakalpakstan**
 
 ---
 
 ### 🚀 Skills:
-- HTML
-- CSS
-- Javascript 
+- HTML5
+- CSS3
+  
 
 ---
 
