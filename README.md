@@ -39,21 +39,4 @@ Dreams 🚀
 Life ⚡  
  ├── music 🎶
  └── Learning 📚  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guljayna &show_icons=true&theme=radical"/>
-</p>
-
----
-
-## 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Guljayna &theme=radical"/>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=120&section=footer"/>
+   
